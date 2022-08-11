@@ -1,0 +1,32 @@
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .primary-header .primary-logo {
+    height: 50px;
+  }
+  
+   .text-logo {
+    color: black;
+  }
+  
+  .main-image {
+    width: 15rem;
+    height: 15rem;
+  }
+  
+  .main-text-container {
+    width: 17rem;
+  }
+  
+  .main-text {
+    font-size: 2rem;
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+  
